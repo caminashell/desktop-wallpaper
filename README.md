@@ -1,4 +1,4 @@
-# My desktop wallpaper for my workstation
+# My desktop wallpaper for workstation
 
 ![SupermassiveBinaryBlackHoles_recolored-1920x1080-FHD](./assets/SupermassiveBinaryBlackHoles_recolored-1920x1080-FHD.png)
 
