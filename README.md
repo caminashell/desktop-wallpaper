@@ -10,9 +10,6 @@
 
 Three sizes:
 
-- `1920 x 1080` FHD
- [SupermassiveBinaryBlackHoles_recolored-1920x1080-FHD](./archives/SupermassiveBinaryBlackHoles_recolored-1920x1080-FHD.zip)
-- `3840 x 2160` 4K
- [SupermassiveBinaryBlackHoles_recolored-3840x2160-4K](./archives/SupermassiveBinaryBlackHoles_recolored-3840x2160-4K.zip)
-- `7680 x 4320` 8K
- [SupermassiveBinaryBlackHoles_recolored-7680x4320-8K](./archives/SupermassiveBinaryBlackHoles_recolored-7680x4320-8K.zip)
+- `1920 x 1080` [SupermassiveBinaryBlackHoles_recolored-1920x1080-FHD](./archives/SupermassiveBinaryBlackHoles_recolored-1920x1080-FHD.zip) (FHD) 623Kb 
+- `3840 x 2160` [SupermassiveBinaryBlackHoles_recolored-3840x2160-4K](./archives/SupermassiveBinaryBlackHoles_recolored-3840x2160-4K.zip) (4K) 5.8Mb
+- `7680 x 4320` [SupermassiveBinaryBlackHoles_recolored-7680x4320-8K](./archives/SupermassiveBinaryBlackHoles_recolored-7680x4320-8K.zip) (8K) 31Mb
